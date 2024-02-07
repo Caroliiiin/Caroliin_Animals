@@ -1,7 +1,7 @@
 # Caroliin_Animals
 
 
-<img src="https://em-content.zobj.net/source/google/387/flag-germany_1f1e9-1f1ea.png" width="20" title="German"> Einfaches Skript zur Verwendung eines Gegenstands, um sich in ein Tier / einen Fußgänger zu verwandeln. 
+<img src="https://em-content.zobj.net/source/google/387/flag-germany_1f1e9-1f1ea.png" width="20" title="German"> Einfaches Skript zur Verwendung eines Gegenstands, um sich in ein Tier / einen Pedestrian zu verwandeln. 
 In der Config kann dem Spieler die Berechtigung zur Nutzung des Items gegeben werden, andernfalls bekommt dieser eine Fehlermeldung dass er nicht berechtigt ist.
 
 ___________________________________________________________________________________________________________________________________________________________________________________________________
