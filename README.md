@@ -12,4 +12,4 @@ In the config, the player can be given permission to use the item, otherwise he 
 ___________________________________________________________________________________________________________________________________________________________________________________________________
 
 <p align="center">
-  <img align="center" src="https://i.postimg.cc/3NLyj5pj/Bild-2024-02-07-152114955.png" title="Wuff Wuff"> </p>
+  <img align="center" src="https://github.com/Caroliiiin/Caroliin_Animals/blob/main/caroliin_animals/img/github_cover.png" title="Wuff Wuff"> </p>
