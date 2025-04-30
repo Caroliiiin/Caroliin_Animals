@@ -4,10 +4,14 @@
 <img src="https://em-content.zobj.net/source/google/387/flag-germany_1f1e9-1f1ea.png" width="20" title="German"> Einfaches Skript zur Verwendung eines Gegenstands, um sich in ein Tier / einen Pedestrian zu verwandeln. 
 In der Config kann dem Spieler die Berechtigung zur Nutzung des Items gegeben werden, andernfalls bekommt dieser eine Fehlermeldung dass er nicht berechtigt ist.
 
+Items in der Datenbank müssen so heißen wie die Bildernamen im img-Ordner (ohne .png am Ende natürlich).
+
 ___________________________________________________________________________________________________________________________________________________________________________________________________
 
 <img src="https://em-content.zobj.net/source/google/387/flag-united-states_1f1fa-1f1f8.png" width="20" title="English"> Simple script for using an item to transform into an animal / pedestrian. 
 In the config, the player can be given permission to use the item, otherwise he will receive an error message that he is not authorized.
+
+Items in the database must have the same name as the image names in the img folder (without .png at the end, of course).
 
 ___________________________________________________________________________________________________________________________________________________________________________________________________
 
